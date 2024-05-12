@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Misbah</h1>
 <h3 align="center">A passionate Python Fullstack developer from India</h3>
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-misbah&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-misbah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-misbah" alt="mohammed-misbah" /></a> </p>
@@ -11,7 +9,7 @@
 
 - 🌱 I’m currently learning **LLM, Flask**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/misbah.ul.haq](https://linktr.ee/misbah.ul.haq)
+- 👨‍💻 All of my details are available at [https://linktr.ee/misbah.ul.haq](https://linktr.ee/misbah.ul.haq)
 
 - 📫 How to reach me **mizba.ul.hq.ksd@gmail.com**
 
@@ -20,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mizba_ul_haq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizba_ul_haq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed misbah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed misbah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-misbah-1488b3229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-misbah-1488b3229/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohammed misbah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammed misbah" height="30" width="40" /></a>
-<a href="https://fb.com/mizba ul hq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mizba ul hq" height="30" width="40" /></a>
-<a href="https://instagram.com/__mizbah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mizbah_" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mohammed.misbah.9277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohammed.misbah.9277" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_mizbah__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_mizbah__/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohammed misbah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammed misbah" height="30" width="40" /></a>
 </p>
 
