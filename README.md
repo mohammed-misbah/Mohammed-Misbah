@@ -1,6 +1,6 @@
 ![logo](https://github.com/mohammed-misbah/Mohammed-Misbah/blob/main/linkedin%20cover%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Misbah</h1>
-<h3 align="center">A passionate Python Fullstack Developer from India</h3>
+<h3 align="center">A Python Fullstack Developer from India</h3>
 
 <div align="center">
     <img alt="coding" width="400" height="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -22,11 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mizba_ul_haq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizba_ul_haq" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-misbah-1488b3229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-misbah-1488b3229/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohammed misbah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammed misbah" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mohammed.misbah.9277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohammed.misbah.9277" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_mizbah__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_mizbah__/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohammed misbah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammed misbah" height="30" width="40" /></a>
 </p>
 
