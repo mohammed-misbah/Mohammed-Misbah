@@ -90,15 +90,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
 </div>
-<div style="display: flex; gap: 10px; flex-wrap: nowrap;">
-    <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-misbah&show_icons=true&locale=en&layout=compact" alt="mohammed-misbah" />
-    </div>
-    <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohammed-misbah&show_icons=true&locale=en" alt="mohammed-misbah" />
-    </div>
-    <div style="flex: 1;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-misbah&" alt="mohammed-misbah" />
-    </div>
-</div>
+<p><img align="right" width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-misbah&" alt="mohammed-misbah" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mohammed-misbah&show_icons=true&locale=en" alt="mohammed-misbah" /></p> -->
+<p><img align="left" width="380" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-misbah&show_icons=true&locale=en&layout=compact" alt="mohammed-misbah" /></p>
 
