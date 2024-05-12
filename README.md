@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Misbah</h1>
-<h3 align="center">A passionate Python Fullstack developer from India</h3>
+<h3 align="center">A passionate Python Fullstack Developer from India</h3>
 
 <div align="center">
     <img alt="coding" width="400" height="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
