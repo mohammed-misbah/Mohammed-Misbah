@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Misbah</h1>
 <h3 align="center">A passionate Python Fullstack developer from India</h3>
-<img align="center" alt="coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="display: block; margin: 0 auto;">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-misbah&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-misbah" /> </p>
+<div style="text-align:center;">
+    <img align="center" alt="coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-misbah&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-misbah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-misbah" alt="mohammed-misbah" /></a> </p>
