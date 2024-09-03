@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Chat Application using Django Channels](https://github.com/mohammed-misbah/WeChat)
 
-- 🌱 I’m currently learning **LLM, Flask**
+- 🌱 I’m currently learning **Java Script, Nodejs**
 
 - 👨‍💻 All of my details are available at [https://linktr.ee/misbah.ul.haq](https://linktr.ee/misbah.ul.haq)
 
