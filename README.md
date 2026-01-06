@@ -32,9 +32,9 @@ class MohammedMisbah:
         self.name = "Mohammed Misbah"
         self.role = "Python Fullstack Developer"
         self.location = "India 🇮🇳"
-        self.education = "Computer Science"
-        self.currently_learning = ["JavaScript", "Node.js"]
-        self.current_project = "Admin and Client Implementation"
+        self.education = "Bachler of Computer Application"
+        self.currently_learning = ["FastAPI", "Azure"]
+        self.current_project = "Reward Decision Service"
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
@@ -109,27 +109,6 @@ me.say_hi()
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammed-misbah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-misbah&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-misbah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-misbah&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
