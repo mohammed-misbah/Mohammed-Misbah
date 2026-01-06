@@ -1,7 +1,3 @@
-![logo](https://github.com/mohammed-misbah/Mohammed-Misbah/blob/main/linkedin%20cover%20banner.jpg)
-<h1 align="center">Hi 👋, I'm Mohammed Misbah</h1>
-<h3 align="center">A Python Fullstack Developer from India</h3>
-
 <div align="center">
   <img src="https://github.com/mohammed-misbah/Mohammed-Misbah/blob/main/linkedin%20cover%20banner.jpg" alt="Header Banner" style="width: 100%; border-radius: 10px;">
 </div>
