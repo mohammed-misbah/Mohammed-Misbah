@@ -56,7 +56,7 @@ me.say_hi()
   <tr>
     <td>🌱</td>
     <td><b>Learning:</b></td>
-    <td>JavaScript, Node.js</td>
+    <td>FastAPI, Azure & AWS</td>
   </tr>
   <tr>
     <td>👨‍💻</td>
