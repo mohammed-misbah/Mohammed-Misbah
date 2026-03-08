@@ -66,7 +66,7 @@ me.say_hi()
   <tr>
     <td>📫</td>
     <td><b>Reach me:</b></td>
-    <td>mizba.ul.hq.ksd@gmail.com</td>
+    <td>mohammedmisbah858@gmail.com</td>
   </tr>
   <tr>
     <td>💡</td>
