@@ -61,7 +61,7 @@ me.say_hi()
   <tr>
     <td>👨‍💻</td>
     <td><b>Portfolio:</b></td>
-    <td><a href="https://linktr.ee/misbah.ul.haq">linktr.ee/misbah.ul.haq</a></td>
+    <td><a href="https://mohammed-misbah.github.io/">mohammed-misbah.com</a></td>
   </tr>
   <tr>
     <td>📫</td>
