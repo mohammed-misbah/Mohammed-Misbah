@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/mohammed-misbah/Mohammed-Misbah/blob/main/linkedin%20cover%20banner.jpg" alt="Header Banner" width="100%">
+  <img src="https://github.com/mohammed-misbah/Mohammed-Misbah/blob/main/githubanner.png" alt="Header Banner" width="100%">
 </div>
 
 <h1 align="center">
