@@ -129,7 +129,7 @@ me.say_hi()
   <a href="https://mohammed-misbah.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/mohammed-misbah">
+  <a href="https://mohammedmisbah.vercel.app">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
