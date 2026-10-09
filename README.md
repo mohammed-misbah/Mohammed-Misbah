@@ -110,9 +110,9 @@ me.say_hi()
 
 </div>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-misbah&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
-</p> -->
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
