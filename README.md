@@ -34,7 +34,7 @@ class MohammedMisbah:
         self.location = "India 🇮🇳"
         self.education = "Bachler of Computer Application"
         self.currently_learning = ["FastAPI", "Azure"]
-        self.current_project = "Reward Decision Service"
+        self.current_project = "Biddix-AI-Shopping-Assistant"
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
