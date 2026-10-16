@@ -33,7 +33,7 @@ class MohammedMisbah:
         self.role = "Python Fullstack Developer"
         self.location = "India 🇮🇳"
         self.education = "Bachler of Computer Application"
-        self.currently_learning = ["FastAPI", "AI Integration"]
+        self.currently_learning = ["FastAPI", "AI Integration", "RAG"]
         self.current_project = "Biddix-AI-Shopping-Assistant"
         
     def say_hi(self):
